@@ -37,7 +37,7 @@ main {
     float: left;
 }
 
-h2 {
+h2 { color: #9b4052
     font-family: "Lora", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -65,7 +65,7 @@ h1 { color: #9b4052;
 
 
 :root {
-  h2 {
+  p {
     color: #002019
   }
   --var-body-bg: #cde9de;
@@ -75,7 +75,7 @@ h1 { color: #9b4052;
 
 @media (prefers-color-scheme: dark) {
 :root { 
-  h2{
+  p{
     color: #ba1a1a
   }
   --var-body-bg: #002019;
